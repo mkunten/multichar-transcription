@@ -1,0 +1,21 @@
+{
+  "name": "multichar-transcription",
+  "version": "0.0.1",
+  "description": "utility for multicharacter transcription",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "multicharacter",
+    "transcription",
+    "converter"
+  ],
+  "author": "mkunten",
+  "license": "MIT",
+  "devDependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^2.5.3",
+    "power-assert": "^1.4.1"
+  },
+  "private": true
+}
